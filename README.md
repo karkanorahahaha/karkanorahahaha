@@ -5,7 +5,7 @@ i really have no idea whats going on and im starting from point zero with the re
 
 ---
 
->Fun fact: why couldnt the bicycle stand on its own?
+>Fun fact: why couldnt the bicycle stand on its own?  
 > because it was two-tired!
 
 <!--
